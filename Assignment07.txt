@@ -1,0 +1,8 @@
+Student:  {"FirstName":"Indiana","LastName":"Jones","CourseName":"Python 100","CoursePrice":999.98,"CourseCost":1089.98}
+
+Student:  {"FirstName":"Ronald","LastName":"Mursewick","CourseName":"Python 100","CoursePrice":999.98,"CourseCost":1089.98}
+
+Student:  {"FirstName":"Justin","LastName":"Hawkins","CourseName":"Python 100","CoursePrice":999.98,"CourseCost":1089.98}
+
+Total students registered for the class is: 3 
+
